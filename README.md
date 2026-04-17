@@ -46,6 +46,29 @@ Random Forest classifier used to predict trade profitability.
 
 ---
 
+## 🔹 Summary
+
+### Methodology
+
+* Cleaned and merged trading and sentiment datasets using date alignment
+* Created features like trade size, win rate, and sentiment score
+* Performed sentiment-based and behavioral analysis
+* Built a Random Forest model for trade outcome prediction
+
+### Insights
+
+* Traders perform better during Greed periods
+* Trading activity increases during positive sentiment
+* Fear periods show higher volatility and inconsistent outcomes
+* Larger trades are associated with higher risk
+
+### Strategy Recommendations
+
+* Reduce trade size during Fear markets to manage risk
+* Increase trading activity during Greed conditions
+* Avoid large position sizes unless risk tolerance is high
+
+
 ## 🔹 Author
 
 Aayush Singh
